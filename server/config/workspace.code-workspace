@@ -1,0 +1,32 @@
+{
+    "folders": [
+		{
+			"name": "01-hola-mundo",
+			"path": "..\\..\\..\\01-hola-mundo"
+		},
+		{
+			"name": "02-fundamentos",
+			"path": "..\\..\\..\\02-fundamentos"
+		},
+		{
+			"name": "03-bases-node",
+			"path": "..\\..\\..\\03-bases-node"
+		},
+		{
+			"path": "..\\..\\..\\04-por-hacer"
+		},
+		{
+			"path": "..\\..\\..\\05-clima-mundo"
+		},
+		{
+			"path": "..\\..\\..\\06-webserver"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\salesforce"
+		}
+	],
+    "settings": {}
+}
